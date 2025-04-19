@@ -52,7 +52,7 @@ class Config(object):
     
     LOGGER = logging
 
-    UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", "-1002296873835")
+    UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", "-1002034379731")
     
     OWNER_ID = int(os.environ.get("OWNER_ID", "8079310657"))
     
